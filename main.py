@@ -2,7 +2,7 @@
 """
 Created on Thu Dec  3 16:36:30 2020
 
-@author: Widmark and Luana
+@author: Widmark Kaue and Luana Gomes
 """
 
 import numpy as np
